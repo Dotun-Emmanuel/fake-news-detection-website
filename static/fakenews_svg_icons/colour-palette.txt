@@ -1,0 +1,11 @@
+FakeNews Detector UI colour palette
+
+Primary blue: #1677FF
+Dark blue: #155EEF
+Navigation navy: #0B1B34
+Main text: #111827
+Success green: #16A34A
+Warning/error red: #DC2626
+Neutral gray: #98A2B3
+Light border gray: #E5E7EB
+White: #FFFFFF
